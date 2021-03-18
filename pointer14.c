@@ -30,4 +30,10 @@ int main() {
 
 	return 0;
 }
-
+/*
+while(size--)
+	{
+		printf("%d ",*(ptr++));          yukaridaki for kismi yerine bu kodu da yazsak ayni ciktiyi elde edebiliriz.
+	}
+	*(ptr++)  index arttirma islemidir..
+*/
